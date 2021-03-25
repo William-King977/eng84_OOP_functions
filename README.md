@@ -1,5 +1,4 @@
-# Object Oriented Programming and Functions
-## Functions
+# Python Functions
 A function is a block of code that only runs when it is 
 called, and it carries out a single purpose. Functions
 encourage the DRY (Don't Repeat Yourself) principle 
